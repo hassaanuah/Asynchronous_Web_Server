@@ -1,3 +1,6 @@
+This project is an asynchronous HTTP web server over Python3 using asynchio module. It includes a REST web interface (without GUI) providing database management features. MySQL has been used as database for this project<br />
+
+
 To runserver server use the following procedure:<br />
 
 clone this directory using the following command:
